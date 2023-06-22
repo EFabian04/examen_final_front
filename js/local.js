@@ -1,5 +1,5 @@
 //funciones propias de la app
-const urlApi = "http://localhost:8081";//colocar la url con el puerto
+const urlApi = "http://localhost:8080";//colocar la url con el puerto
 
 async function login(){
     var myForm = document.getElementById("loginForm");
